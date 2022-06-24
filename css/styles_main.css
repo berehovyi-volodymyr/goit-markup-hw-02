@@ -59,13 +59,16 @@ body{
 }
 
 .hero{
+    color: #FFFFFF;
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
+    text-transform: uppercase;
 }
 
 .button{
+    font-family: 'Roboto';
     background-color: var(--accent-color);
     color: #FFFFFF;
     font-style: normal;
@@ -94,6 +97,7 @@ body{
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
+    text-transform: uppercase;
 }
 
 .text{
